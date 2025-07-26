@@ -1,2 +1,2 @@
 # Git-demo
-A folder through which we are learning
+A folder through which we are learning Git & GitHub
